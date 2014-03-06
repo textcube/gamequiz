@@ -34,3 +34,5 @@ Contact:
 	- Facebook Link : http://facebook.com/buntgames
 	- Email : hompy@live.com
 
+
+[![INSTALL VIDEO](http://img.youtube.com/vi/E7oWrSpjGls/0.jpg)](http://www.youtube.com/watch?v=E7oWrSpjGls)
